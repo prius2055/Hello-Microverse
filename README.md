@@ -68,7 +68,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To get the make use of this project files, follow the steps below.
+> To get make use of this project files, follow the steps below.
 
 To get a local copy up and running
 
