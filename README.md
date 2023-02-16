@@ -43,7 +43,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Frontend
 
 <details>
   <summary>CLIENT</summary>
@@ -58,7 +58,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> The application is a static website with a header
 
 - **[A simple header]**
 
@@ -97,9 +97,9 @@ npm start
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> The project was built in collaboration with the following persons
 
-👤 **Author1**
+👤 **Prius**
 
 - GitHub: [@githubhandle](https://github.com/prius2055)
 
@@ -108,7 +108,7 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> The following features can be included in the project
 
 - [ ] **[styling the CSS to make it look good]**
 
